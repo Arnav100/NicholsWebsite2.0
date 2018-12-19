@@ -1,0 +1,38 @@
+.container.custom-container {
+   
+  }
+
+
+.font-1 * {
+    font-size: 115%;
+}
+
+.paddingx-1 {
+    padding-right: 115%;
+    padding-left: 115%;
+}
+#robot
+{
+    color : darkgreen;
+	text-shadow: 3px 0px 5px gold;
+    font-size: 60px;
+}
+
+.paragraph
+{
+    line-height: 2em; 
+    font-size: 18px
+}
+
+.pacifico 
+{
+    font-family: 'Pacifico', cursive;
+}
+.courgette
+{
+    font-family: 'Courgette', cursive;
+}
+.bungee
+{
+    font-family: 'Bungee Inline', cursive;
+}
